@@ -1,0 +1,6 @@
+{
+  "name": "Kaimi-Clan",
+  "description": "Aplikasi short-video sharing TikTok clone dengan feed vertikal, verified badge, upload video, dan interaksi sosial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
